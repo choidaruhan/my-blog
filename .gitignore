@@ -1,0 +1,11 @@
+node_modules
+dist
+.content
+.file-routes.d.ts
+file-routes.d.ts
+*.log
+.DS_Store
+.wrangler
+.vercel
+.env
+.env.local
