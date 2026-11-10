@@ -6,7 +6,7 @@ export const site = {
   /** 기본 설명. OG 태그와 RSS 채널 설명에 사용됩니다. */
   description: "만들고, 부수고, 다시 만드는 기록.",
   /** 배포 후 실제 URL. RSS와 sitemap의 절대 경로 기준입니다. */
-  url: "https://blog-ac3.pages.dev",
+  url: "https://choidaruhan-blog.pages.dev",
   lang: "ko",
   author: "Choi Daruhan",
   email: "hello@example.com",
